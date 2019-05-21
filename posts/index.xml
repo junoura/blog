@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 08 May 2019 13:17:10 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 12:56:55 +0900</lastBuildDate>
     
 	<atom:link href="http://junoura.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>タイトル2</title>
+      <link>http://junoura.github.io/blog/posts/2019050901/</link>
+      <pubDate>Thu, 09 May 2019 12:56:55 +0900</pubDate>
+      
+      <guid>http://junoura.github.io/blog/posts/2019050901/</guid>
+      <description>タイトルをつけてみる。</description>
+    </item>
     
     <item>
       <title>Second Post</title>
