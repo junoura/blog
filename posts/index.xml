@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 09 May 2019 12:56:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 14:32:02 +0900</lastBuildDate>
     
 	<atom:link href="http://junoura.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test20190603</title>
+      <link>http://junoura.github.io/blog/posts/test20190603/</link>
+      <pubDate>Mon, 03 Jun 2019 14:32:02 +0900</pubDate>
+      
+      <guid>http://junoura.github.io/blog/posts/test20190603/</guid>
+      <description>技術的には可能でも、やっていいこととやってはいけないことって、あるよね。</description>
+    </item>
     
     <item>
       <title>タイトル2</title>
